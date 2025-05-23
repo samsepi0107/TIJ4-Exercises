@@ -1,1 +1,1 @@
-# TIJ4-Exercises
+Repository for exercises from Thinking in Java 4th Edition resolved entirely by myself
